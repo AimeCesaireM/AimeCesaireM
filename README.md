@@ -27,22 +27,24 @@ The `Phase1` program decodes hidden messages (text or images) embedded within a 
 ### [Pacman AI Agents](https://github.com/AimeCesaireM/AI-Projects)
 This collection of Pacman agents utilize various artificial intelligence algorithms to mazimize the score in various scenarios of the Pacman game.
 
-## 📈 GitHub Stats
-![AimeCesaireM's GitHub stats](https://github-readme-stats.vercel.app/api?username=AimeCesaireM&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 - **Email**: [aimecesairem@example.com](mailto:aimecesairem@example.com)
 - **LinkedIn**: [AimeCesaireM](https://www.linkedin.com/in/aimecesairem/)
-- **Twitter**: [@AimeCesaireM](https://twitter.com/AimeCesaireM)
 
 ## 🌱 Currently Learning
 - Advanced algorithms and data structures
-- Machine learning with TensorFlow and PyTorch
+- Machine learning
+- Computer Systems
+- Computer Networks
+- Artificial Intelligence
+- Cryptography
+- Computer Security
 
 ## 💬 Ask me about
 - Web development
-- Data science projects
-- Open-source contributions
+- Number theory and modern cryptography
+- Cybersecurity and ethical hacking
 
 ## ⚡ Fun fact
 I'm named after Aimé Césaire, the renowned poet, author, and politician from Martinique!
