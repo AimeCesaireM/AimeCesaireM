@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in cyber
 ## 🚀 Projects
 Here are some of the projects I'm proud of:
 
-### [portfolio-website](https://github.com/AimeCesaireM/portfolio-website)
+### [portfolio-website](https://aimecesairem.github.io/portfolio-website/)
 This is my official Github Pages Repository
 
 ### [ecc-cryptography](https://github.com/AimeCesaireM/ecc-cryptography)
