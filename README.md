@@ -1,10 +1,10 @@
-# Hi there, I'm AimeCesaireM 👋
+# Hi there, I'm Aime Cesaire 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with interests in web development, data science, and open-source contributions.
+Welcome to my GitHub profile! I'm a passionate developer with interests in cybersecurity, Web3, and AI.
 
 ## 🔧 Technologies & Tools
-- **Languages**: Python, JavaScript, Java, C++, Solidity, Go, Dart
-- **Web Development**: HTML, CSS, React, Node.js
+- **Languages**: Python, JavaScript, Java, C++, Solidity.
+- **Web Development**: HTML, CSS, React, Node.js, Tailwind, Bootstrap
 - **Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Tools**: Git, Docker, Azure, WSL, REST API, GraphQL
@@ -29,10 +29,9 @@ This collection of Pacman agents utilize various artificial intelligence algorit
 
 
 ## 📫 How to reach me
-- **Email**: [aimecesairem@example.com](mailto:aimecesairem@example.com)
-- **LinkedIn**: [AimeCesaireM](https://www.linkedin.com/in/aimecesairem/)
+- **LinkedIn**: [Aime Cesaire Mugishawayo](https://www.linkedin.com/in/aime-cesaire-mugishawayo/)
 
-## 🌱 Currently Learning
+## 🌱 Courses taken
 - Advanced algorithms and data structures
 - Machine learning
 - Computer Systems
@@ -40,6 +39,10 @@ This collection of Pacman agents utilize various artificial intelligence algorit
 - Artificial Intelligence
 - Cryptography
 - Computer Security
+
+## :school_satchel: Currently learning
+- DevOps from IBM on Coursera
+- Web3 smart contracts
 
 ## 💬 Ask me about
 - Web development
