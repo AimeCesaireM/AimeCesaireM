@@ -21,7 +21,7 @@ A Solidity based Web3 solution to election integrity and anonymity. This project
 ### [ouispar- An elliptical curve cryptography applcation](https://github.com/AimeCesaireM/ecc-cryptography)
 This repository contains the implementation of elliptic curve cryptography algorithms in Python, including several cryptographic functions and methods for working with elliptic curves over finite fields.
 
-### [CRC](https://github.com/AimeCesaireM/CRC)
+### [Error detection on network data link layers](https://github.com/AimeCesaireM/CRC)
 A Java-based implementation of a data link layer protocol that utilizes CRC (Cyclic Redundancy Check) for error detection. This project handles framing using start/stop tags, byte packing, and provides robust frame processing.
 
 ### [Phase 1 - A Steganography-Detector](https://github.com/AimeCesaireM/Steganography-Detector)
