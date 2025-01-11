@@ -15,8 +15,8 @@ Here are some of the projects I'm proud of:
 ### [portfolio-website](https://aimecesairem.github.io/portfolio-website/)
 This is my official Portfolio Website on Github Pages
 
-### [Mammoth Rumble -Decentralized Voting](https://github.com/AimeCesaireM/Decentralized-Voting)       [The Website](http://34.44.182.12/)
-A Solidity based Web3 solution to election integrity and anonymity. This project utilizes Hardhat, the ethers API, the IPFS protocol, and React to interact with a Solidity smart contract to conduct transparent elections.
+### [Mammoth Rumble -Decentralized Voting](https://github.com/AimeCesaireM/Decentralized-Voting)
+A Solidity based Web3 solution to election integrity and anonymity. This project utilizes Hardhat, the ethers API, the IPFS protocol, and React to interact with a Solidity smart contract to deliver a web app to conduct transparent elections. Visit the web app [here](http://34.44.182.12/)
 
 ### [ouiecc-cryptography](https://github.com/AimeCesaireM/ecc-cryptography)
 This repository contains the implementation of elliptic curve cryptography algorithms in Python, including several cryptographic functions and methods for working with elliptic curves over finite fields.
