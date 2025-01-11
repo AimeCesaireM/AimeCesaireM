@@ -13,15 +13,18 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in cyber
 Here are some of the projects I'm proud of:
 
 ### [portfolio-website](https://aimecesairem.github.io/portfolio-website/)
-This is my official Github Pages Repository
+This is my official Portfolio Website on Github Pages
 
-### [ecc-cryptography](https://github.com/AimeCesaireM/ecc-cryptography)
+### [Mammoth Rumble -Decentralized Voting](https://github.com/AimeCesaireM/Decentralized-Voting)       [The Website](http://34.44.182.12/)
+A Solidity based Web3 solution to election integrity and anonymity. This project utilizes Hardhat, the ethers API, the IPFS protocol, and React to interact with a Solidity smart contract to conduct transparent elections.
+
+### [ouiecc-cryptography](https://github.com/AimeCesaireM/ecc-cryptography)
 This repository contains the implementation of elliptic curve cryptography algorithms in Python, including several cryptographic functions and methods for working with elliptic curves over finite fields.
 
 ### [CRC](https://github.com/AimeCesaireM/CRC)
 A Java-based implementation of a data link layer protocol that utilizes CRC (Cyclic Redundancy Check) for error detection. This project handles framing using start/stop tags, byte packing, and provides robust frame processing.
 
-### [Steganography-Detector](https://github.com/AimeCesaireM/Steganography-Detector)
+### [Phase 1 - A Steganography-Detector](https://github.com/AimeCesaireM/Steganography-Detector)
 The `Phase1` program decodes hidden messages (text or images) embedded within a source image using steganographic techniques. It supports decoding text and images by extracting least significant bits (LSBs) from the source image.
 
 ### [Pacman AI Agents](https://github.com/AimeCesaireM/AI-Projects)
