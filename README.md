@@ -6,12 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in mobil
 - **Languages**: Python, TypeScript, Java, C++, Solidity, Dart.
 - **Development**: Node.js, React, Tailwind, Bootstrap, Flutter.
 - **Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn.
-- **Tools**: MySQL, Firebase, MongoDB.
+- **Database**: MySQL, Firebase, MongoDB.
 - **Tools**: Git, Docker, Azure, WSL.
 
 ## 🚀 Projects
 Here are some of the projects I'm proud of:
-
 - ### [portfolio-website](https://aimecesairem.github.io/portfolio-website/)
   This is my official Portfolio Website on Github Pages
 
@@ -33,7 +32,7 @@ Here are some of the projects I'm proud of:
 
 ## 📫 How to reach me
 - [**LinkedIn**](https://www.linkedin.com/in/aime-cesaire-mugishawayo/)
-- [**Hardhake**](https://amherst.joinhandshake.com/profiles/u6e8s3)
+- [**Handshake**](https://amherst.joinhandshake.com/profiles/u6e8s3)
 
 ## 🌱 Courses taken
 - Algorithms
@@ -48,6 +47,7 @@ Here are some of the projects I'm proud of:
 - Computer Security
 
 ## :school_satchel: Currently learning
+- Natural Language Processing
 - Nonlinear Optimization
 - Data Mining
 - DataScience from IBM on Coursera
@@ -58,11 +58,10 @@ Here are some of the projects I'm proud of:
 ## :page_with_curl: Certificates:
 - Microsoft Azure Fundamentals
 
-## 💬 Ask me about
-- Web development
-- Number theory and modern cryptography
-- Cybersecurity and ethical hacking
-
+## 💬 Let's chat about
+- Opportunities
+- Math in cryptography
+- AI and LLMs
 ## ⚡ Fun fact
 I'm named after Aimé Césaire, the renowned poet, author, and politician from Martinique!
 
