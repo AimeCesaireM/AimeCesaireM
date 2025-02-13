@@ -61,9 +61,8 @@ Here are some of the projects I'm proud of:
 
 ## 💬 Let's chat about
 - Opportunities
-- Math in cryptography
-- AI and LLMs
+- Math and AI in security
 ## ⚡ Fun fact
 I'm named after Aimé Césaire, the renowned poet, author, and politician from Martinique!
 
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech.
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project.
