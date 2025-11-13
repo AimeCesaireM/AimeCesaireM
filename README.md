@@ -17,11 +17,6 @@ Here are some of the projects I'm proud of:
 - ### [Mammoth Rumble -Decentralized Voting](https://github.com/AimeCesaireM/Decentralized-Voting)
   A Solidity-based Web3 solution to election integrity and anonymity. This project utilizes Hardhat, the ethers API, the IPFS protocol, and React to interact with a Solidity smart contract to deliver a web app to conduct transparent elections. Visit the web app [here](http://34.16.36.118)
 
-- ### [ouispar- An elliptical curve cryptography application](https://github.com/AimeCesaireM/ecc-cryptography)
-  This repository contains the implementation of elliptic curve cryptography algorithms in Python, including several cryptographic functions and methods for working with elliptic curves over finite fields.
-
-- ### [Error detection on network data link layers](https://github.com/AimeCesaireM/CRC)
-  A Java-based implementation of a data link layer protocol that utilizes CRC (Cyclic Redundancy Check) for error detection. This project handles framing using start/stop tags and byte packing and provides robust frame processing.
 
 - ### [Phase 1 - A Steganography-Detector](https://github.com/AimeCesaireM/Steganography-Detector)
   The `Phase1` program decodes hidden messages (text or images) embedded within a source image using steganographic techniques. It supports decoding text and images by extracting the least significant bits (LSBs) from the source image.
