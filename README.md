@@ -1,38 +1,40 @@
-# Hi there, I'm Aime Cesaire 👋
+# Hi, I'm Aime Cesaire
 
-Welcome to my GitHub profile! I'm a passionate developer with interests in mobile and wed development, cybersecurity, Web3, and AI.
+I build AI-heavy systems that have to be secure, observable, and production-ready. My work spans autonomous agents, high-assurance systems, and end-to-end products that tie research-grade ideas to shipped experiences.
 
-## 🔧 Technologies & Tools
+## Focus Areas
+- AI and automation: planning-first agents, search heuristics, and practical ML tooling.
+- Secure systems: cryptography, steganalysis, zero-knowledge-inspired primitives, and verifiable pipelines.
+- Systems and networking: reliability tooling across data link, distributed, and resource-constrained environments.
+- Full stack delivery: React/Next, Node, Solidity, and fast iteration on design-to-deploy workflows.
+
+## Core Stack
 - **Languages**: Python, TypeScript, Java, C++, Solidity, Dart.
-- **Development**: Node.js, React, Tailwind, Bootstrap, Flutter.
-- **Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn.
-- **Database**: MySQL, Firebase, MongoDB.
-- **Tools**: Git, Docker, Azure, WSL.
+- **Frameworks**: React, Next.js, Node.js, Tailwind, Flutter.
+- **AI / Data**: NumPy, Pandas, Matplotlib, scikit-learn.
+- **Systems & Infra**: Hardhat, Docker, GitHub Actions, WSL, Firebase, MongoDB, MySQL.
 
-## 🚀 Projects
-Here are some of the projects I'm proud of:
-- ### [portfolio-website](https://aimecesairem.github.io/portfolio-website/)
-  This is my official Portfolio Website on GitHub Pages
+## Featured Repositories
+### AI and Intelligent Systems
+- [Pacman AI Agents](https://github.com/AimeCesaireM/AI-Projects) — A portfolio of search, adversarial, and reinforcement-learning agents that optimize Pacman scenarios. Includes benchmarking harnesses to compare heuristics and pluggable evaluators for rapid experimentation.
 
-- ### [Mammoth Rumble -Decentralized Voting](https://github.com/AimeCesaireM/Decentralized-Voting)
-  A Solidity-based Web3 solution to election integrity and anonymity. This project utilizes Hardhat, the ethers API, the IPFS protocol, and React to interact with a Solidity smart contract to deliver a web app to conduct transparent elections. Visit the web app [here](http://34.16.36.118)
+### Security, Cryptography, and Steganography
+- [Phase 1 — Steganography Detector](https://github.com/AimeCesaireM/Steganography-Detector) — Image steganalysis toolkit that extracts LSB payloads for both text and raster content, with deterministic decoding pipelines for forensics.
+- [ouispar — Elliptic Curve Cryptography](https://github.com/AimeCesaireM/ecc-cryptography) — Python implementations of ECC primitives, point addition/multiplication, and finite-field utilities geared toward protocol prototyping.
+- [Error Detection on Network Data Link Layers](https://github.com/AimeCesaireM/CRC) — Java-based CRC framing engine that simulates byte stuffing, start/stop tagging, and channel noise to validate link-layer resilience.
 
+### Systems and Full Stack Builds
+- [Mammoth Rumble — Decentralized Voting](https://github.com/AimeCesaireM/Decentralized-Voting) — A Solidity + React stack for verifiable elections that combines Hardhat, ethers.js, IPFS, and a hosted frontend to prove ballot integrity. Live demo at [34.16.36.118](http://34.16.36.118).
+- [portfolio-website](https://aimecesairem.github.io/portfolio-website/) — Minimal, high-performance personal site deployed on GitHub Pages with a design system shared across recruiting deliverables.
 
-- ### [Phase 1 - A Steganography-Detector](https://github.com/AimeCesaireM/Steganography-Detector)
-  The `Phase1` program decodes hidden messages (text or images) embedded within a source image using steganographic techniques. It supports decoding text and images by extracting the least significant bits (LSBs) from the source image.
+## How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/aime-cesaire-mugishawayo/)
+- [Handshake](https://amherst.joinhandshake.com/profiles/u6e8s3)
 
-- ### [Pacman AI Agents](https://github.com/AimeCesaireM/AI-Projects)
-  This collection of Pacman agents utilizes various artificial intelligence algorithms to maximize the score in various scenarios of the Pacman game.
-
-
-## 📫 How to reach me
-- [**LinkedIn**](https://www.linkedin.com/in/aime-cesaire-mugishawayo/)
-- [**Handshake**](https://amherst.joinhandshake.com/profiles/u6e8s3)
-
-## 🌱 Courses taken
+## Coursework
 - Algorithms
-- Data structures
-- Machine learning
+- Data Structures
+- Machine Learning
 - Computer Systems
 - Computer Networks
 - Artificial Intelligence
@@ -40,24 +42,23 @@ Here are some of the projects I'm proud of:
 - Number Theory
 - Cryptography
 - Computer Security
-- Google Cybersecurity Professional Certificate
 
-## :school_satchel: Currently learning
+## Currently Learning
 - Natural Language Processing
 - Nonlinear Optimization
 - Data Mining
-- DataScience from IBM on Coursera
-- AWS DevOps from Amazon on Coursera
+- IBM Data Science specialization
+- AWS DevOps on Coursera
 - Web3 smart contracts
 
-## :page_with_curl: Certificates:
+## Certificates
 - Microsoft Azure Fundamentals
 - Google Cybersecurity Professional Certificate
 
-## 💬 Let's chat about
-- Opportunities
-- Math and AI in security
-## ⚡ Fun fact
-I'm named after Aimé Césaire, the renowned poet, author, and politician from Martinique!
+## Let's Talk About
+- Research-to-production AI work
+- Math-heavy security problems
+- Opportunities to build resilient systems
 
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project.
+## Fun Fact
+I'm named after Aimé Césaire, the poet, author, and statesman from Martinique. Thanks for stopping by!
