@@ -1,33 +1,33 @@
 # Hi, I'm Aime Cesaire
 
-I build AI-heavy systems that have to be secure, observable, and production-ready. My work spans autonomous agents, high-assurance systems, and end-to-end products that tie research-grade ideas to shipped experiences.
+I learn by building small AI agents, security tooling, and pragmatic full-stack apps. None of these projects are perfect, but each one taught me something concrete about reliability, safety, or user-facing polish.
 
-## Focus Areas
-- AI and automation: planning-first agents, search heuristics, and practical ML tooling.
-- Secure systems: cryptography, steganalysis, zero-knowledge-inspired primitives, and verifiable pipelines.
-- Systems and networking: reliability tooling across data link, distributed, and resource-constrained environments.
-- Full stack delivery: React/Next, Node, Solidity, and fast iteration on design-to-deploy workflows.
+## What I'm focused on
+- Writing classical AI agents (search, minimax, RL) and measuring how small changes affect behavior.
+- Prototyping cryptography and steganography utilities to understand where attacks actually work.
+- Keeping a handle on deployment basics (React/Next, Node, Hardhat, Docker, Firebase) so ideas are easy to share.
+- Studying systems topics—networking, operating systems, optimization—to ground the above in reality.
 
-## Core Stack
+## Stack I reach for
 - **Languages**: Python, TypeScript, Java, C++, Solidity, Dart.
 - **Frameworks**: React, Next.js, Node.js, Tailwind, Flutter.
 - **AI / Data**: NumPy, Pandas, Matplotlib, scikit-learn.
 - **Systems & Infra**: Hardhat, Docker, GitHub Actions, WSL, Firebase, MongoDB, MySQL.
 
-## Featured Repositories
-### AI and Intelligent Systems
-- [Pacman AI Agents](https://github.com/AimeCesaireM/AI-Projects) — A portfolio of search, adversarial, and reinforcement-learning agents that optimize Pacman scenarios. Includes benchmarking harnesses to compare heuristics and pluggable evaluators for rapid experimentation.
+## Recent Projects
+### AI and automation
+- [Pacman AI Agents](https://github.com/AimeCesaireM/AI-Projects) — Implements BFS/DFS search, heuristic planners, minimax/expectimax adversarial agents, and a small reinforcement-learning setup for the UC Berkeley Pacman framework. Includes comparison scripts to show win rates and scores per map.
 
-### Security, Cryptography, and Steganography
-- [Phase 1 — Steganography Detector](https://github.com/AimeCesaireM/Steganography-Detector) — Image steganalysis toolkit that extracts LSB payloads for both text and raster content, with deterministic decoding pipelines for forensics.
-- [ouispar — Elliptic Curve Cryptography](https://github.com/AimeCesaireM/ecc-cryptography) — Python implementations of ECC primitives, point addition/multiplication, and finite-field utilities geared toward protocol prototyping.
-- [Error Detection on Network Data Link Layers](https://github.com/AimeCesaireM/CRC) — Java-based CRC framing engine that simulates byte stuffing, start/stop tagging, and channel noise to validate link-layer resilience.
+### Security, cryptography, and steganography
+- [Phase 1 — Steganography Detector](https://github.com/AimeCesaireM/Steganography-Detector) — CLI utility that reads PNG/BMP carriers, extracts least-significant-bit payloads, and reconstructs hidden text or images. Useful for coursework demos and basic forensic drills.
+- [ouispar — Elliptic Curve Cryptography](https://github.com/AimeCesaireM/ecc-cryptography) — Straightforward Python implementation of finite-field arithmetic, point addition/multiplication, and key exchange helpers. I use it to step through ECC math instead of treating it as a black box.
+- [Error Detection on Network Data Link Layers](https://github.com/AimeCesaireM/CRC) — Java simulator for CRC-based framing. It handles start/stop flags, byte stuffing, and bit-flip injection so I can visualize how resilient a frame format is before writing firmware-level code.
 
-### Systems and Full Stack Builds
-- [Mammoth Rumble — Decentralized Voting](https://github.com/AimeCesaireM/Decentralized-Voting) — A Solidity + React stack for verifiable elections that combines Hardhat, ethers.js, IPFS, and a hosted frontend to prove ballot integrity. Live demo at [34.16.36.118](http://34.16.36.118).
-- [portfolio-website](https://aimecesairem.github.io/portfolio-website/) — Minimal, high-performance personal site deployed on GitHub Pages with a design system shared across recruiting deliverables.
+### Full stack and systems delivery
+- [Mammoth Rumble — Decentralized Voting](https://github.com/AimeCesaireM/Decentralized-Voting) — Solidity contracts plus a React dashboard that run on Hardhat, ethers.js, and IPFS. The live demo at [34.16.36.118](http://34.16.36.118) is basic, but it proves the ballot flow end-to-end on test networks.
+- [portfolio-website](https://aimecesairem.github.io/portfolio-website/) — Personal site built with vanilla HTML/CSS/JS. It doubles as a lab for layout experiments and accessibility tweaks.
 
-## How to Reach Me
+## How to reach me
 - [LinkedIn](https://www.linkedin.com/in/aime-cesaire-mugishawayo/)
 - [Handshake](https://amherst.joinhandshake.com/profiles/u6e8s3)
 
@@ -43,7 +43,7 @@ I build AI-heavy systems that have to be secure, observable, and production-read
 - Cryptography
 - Computer Security
 
-## Currently Learning
+## Currently learning
 - Natural Language Processing
 - Nonlinear Optimization
 - Data Mining
@@ -55,10 +55,10 @@ I build AI-heavy systems that have to be secure, observable, and production-read
 - Microsoft Azure Fundamentals
 - Google Cybersecurity Professional Certificate
 
-## Let's Talk About
-- Research-to-production AI work
+## Always open to chatting about
+- Practical AI/ML projects (especially ones with tight resource limits)
 - Math-heavy security problems
-- Opportunities to build resilient systems
+- Student-friendly systems or infrastructure work
 
-## Fun Fact
-I'm named after Aimé Césaire, the poet, author, and statesman from Martinique. Thanks for stopping by!
+## Fun fact
+I'm named after Aimé Césaire, the poet, author, and statesman from Martinique. If you have reading recs from his era, I’m all ears. Thanks for visiting.
