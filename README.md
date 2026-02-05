@@ -16,7 +16,7 @@ Building production-ready full-stack systems, AI agents, and security-minded dat
 - Integrations with business impact: HubSpot ↔ Fishbowl, Shopify reconciliation, VAT data capture—configurable, testable, auditable
 
 ## Tech stack
-- **Languages:** Python, TypeScript/JavaScript, Java, C++, Dart
+- **Languages:** Python, TypeScript/JavaScript, Java, C++, Rust
 - **Web/Services:** React, React Native, Node.js/Express, Streamlit, REST APIs, GraphQL, WebSockets
 - **AI/Data:** NumPy, Pandas, scikit-learn, PyTorch, Hugging Face
 - **Infra:** Hadoop/MapReduce, Docker, GitHub Actions, WSL, Postgres, MongoDB, MySQL
