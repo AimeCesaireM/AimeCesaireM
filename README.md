@@ -41,5 +41,5 @@ Building production-ready full-stack systems, AI agents, and security-minded dat
 - Security-minded by default: secrets hygiene, least-privilege, hardening and review of external surfaces.
 
 ## Get in touch
-- Website: [aimecesairem.github.io/portfolio-website](https://aimecesairem.github.io/portfolio-website/)
+- Website: [aimecesairem.github.io/](https://aimecesairem.github.io/)
 - LinkedIn: [linkedin.com/in/aime-cesaire-mugishawayo](https://www.linkedin.com/in/aime-cesaire-mugishawayo/)
